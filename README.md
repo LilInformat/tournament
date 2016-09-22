@@ -7,7 +7,7 @@ Install (Mac OS):
 3. Open terminal, navigate to directory "vagrant" of the code
   
 Run (Mac OS):  
-1. Open terminal
+1. Open terminal  
 2. Enter "vagrant up" into terminal  
 3. Enter "vagrant ssh" into terminal  
 4. Enter "cd /vagrant/tournament" into terminal  
