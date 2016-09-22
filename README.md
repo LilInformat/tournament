@@ -11,7 +11,7 @@ Run (Mac OS):
 2. Enter "vagrant up" into terminal  
 3. Enter "vagrant ssh" into terminal  
 4. Enter "cd /vagrant/tournament" into terminal  
-6. Enter "psql" into terminal  
-7. Enter "\i tournament.sql" to setup database    
-8. Hit "CTRL-D" to exit psql  
-9. Enter "python tournament_test.py"  
+5. Enter "psql" into terminal  
+6. Enter "\i tournament.sql" to setup database    
+7. Hit "CTRL-D" to exit psql  
+8. Enter "python tournament_test.py"  
